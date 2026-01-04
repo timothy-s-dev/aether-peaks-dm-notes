@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"539d26b850f3a73e","type":"file","file":"Factions/Ember Guard.md","x":295,"y":-285,"width":400,"height":400},
+		{"id":"9dd0c6da1ddc0be2","type":"file","file":"Factions/Claw.md","x":-440,"y":-285,"width":400,"height":400},
+		{"id":"4c96a38ac7f3a2a9","x":-440,"y":400,"width":400,"height":400,"type":"file","file":"Factions/Talon.md"}
+	],
+	"edges":[
+		{"id":"5a20236cbf71b6a3","fromNode":"9dd0c6da1ddc0be2","fromSide":"right","toNode":"539d26b850f3a73e","toSide":"left","toEnd":"none","color":"4"},
+		{"id":"2ffa8141ed4103e1","fromNode":"9dd0c6da1ddc0be2","fromSide":"bottom","toNode":"4c96a38ac7f3a2a9","toSide":"top","toEnd":"none","color":"1"},
+		{"id":"843e341bbd05d3f4","fromNode":"4c96a38ac7f3a2a9","fromSide":"right","toNode":"539d26b850f3a73e","toSide":"bottom","toEnd":"none","color":"1"}
+	]
+}

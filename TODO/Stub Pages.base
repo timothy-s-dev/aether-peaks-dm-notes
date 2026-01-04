@@ -1,0 +1,55 @@
+filters:
+  and:
+    - file.hasTag("stub")
+formulas:
+  lastModified: '"Last modified " + file.mtime.relative()'
+  otherTags: file.tags.filter(value != "#stub" && !value.toString().startsWith("#priority/"))
+  priority: |-
+    if(
+      file.hasTag("#priority/high"),
+      "high",
+      if(
+        file.hasTag("#priority/med"),
+        "medium",
+        "low"
+      )
+    )
+  prioritySort: |-
+    if(
+      file.hasTag("#priority/high"),
+      1,
+      if(
+        file.hasTag("#priority/med"),
+        2,
+        3
+      )
+    )
+views:
+  - type: table
+    name: Table
+    groupBy:
+      property: formula.priority
+      direction: ASC
+    order:
+      - file.name
+      - formula.lastModified
+      - formula.otherTags
+      - formula.priority
+    sort:
+      - property: file.mtime
+        direction: ASC
+  - type: list
+    name: Top 10
+    order:
+      - file.name
+      - formula.otherTags
+      - formula.priority
+      - formula.lastModified
+    sort:
+      - property: formula.prioritySort
+        direction: ASC
+      - property: file.mtime
+        direction: ASC
+    limit: 10
+    indentProperties: false
+    separator: " - "
