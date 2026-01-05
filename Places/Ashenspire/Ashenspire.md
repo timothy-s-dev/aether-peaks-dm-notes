@@ -5,7 +5,7 @@ Once a thriving trade hub built on a narrow, spindly peak whose upper reaches he
 # The Towers
 There were once three towers in Ashenspire, built vertically to make the most of the incredibly limited horizontal space:
 * **The Tower of Ash**, where most of the administrative and civic spaces were found.
-* **The Tower of Cinders**, where most of the residential and communcal spaces were found.
+* **The Tower of Cinders**, where most of the residential and communal spaces were found.
 * **The Tower of Smoke**, where the arcane and industrial spaces were found.
 
 The accident appears to have originated in the **Tower of Smoke**, as that's the tower that collapsed, but the exact nature of that accident has been lost to time.
