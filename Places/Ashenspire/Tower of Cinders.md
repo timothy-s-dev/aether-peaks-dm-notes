@@ -119,9 +119,15 @@ This room is empty.
 A handful of stone bricks and a few half-finished statues indicate that this room was once used for stone-carving.  A section of the wall to the west has collapsed, granting access to one of the bedrooms below.
 
 ### 7. Scribes Workshop
-
+Most of the outer wall of this room has collapsed along with a large chunk of the room itself.  This grants access to one of the bedrooms below, and the roof above.
 
 ### 8. Blacksmith's Workshop
-
+A blacksmithing setup has been hauled all the way up to the 5th floor here.  Most of what remains has rusted badly, and was of middling quality to begin with.  A chute in the south corner of the room was used to dispose of waste from the smithing process, and leads to the basement.
 
 ### 9. Potter's Workshop
+Filled now mostly with broken pottery, this was once a workshop used for the manufacture of ceramic goods. This is an exceptionally dangerous place to tangle with spirits, as they may pick up and fling the sharp shards around.
+
+## Roof Garden
+The top floor of the Tower of Cinders once supplemented the outer shell of hydroponics with a small garden. A small rookery was also housed here, and used to communicate with nearby settlements.  A section of the floor here has collapsed, granting access to the workshops below.
+
+The roof has, since its abandonment, been taken over by a flock of [[Fog Skimmers]]. They roost here and hunt on the nearby mountainsides when the fog is rising.

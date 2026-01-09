@@ -9,3 +9,7 @@ The spirits here are panicked still, likely initially fleeing the party until/un
 
 
 # Layout
+
+This tower has mostly collapsed, though the ground level is accessible where the rubble isn't blocking it, and parts of the second and third floor remain in-tact.  Observant PCs may, on rare occasions, notice spirits rising up through the floor in the SE section of the tower through the rubble.  A staircase once stood there giving access to the basement, though it is now buried under a significant amount of rubble.
+
+A zipline from the second floor grants access to the Waterkeeper's chambers in the Tower of Cinders (L2-3)
