@@ -1,4 +1,4 @@
-Much of Ashenspire was once connected by a system of underground tunnels - some more widely known of than others.  That interconnectedness has increased somewhat lately, as [[Rockworms]] have dug tunnels that now connect a few of the previously unconnected areas.
+Much of Ashenspire was once connected by a system of underground tunnels - some more widely known of than others.  That interconnectedness has increased somewhat lately, as [[Monsters/Rockworms]] have dug tunnels that now connect a few of the previously unconnected areas.
 # Layout
 
 ## 1. Tower of Cinders Basement
