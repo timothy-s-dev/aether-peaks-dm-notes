@@ -1,5 +1,10 @@
 One of the species native to the Aether Peaks before the arrival of the Roiling Fog, Rockworms live on a diet of mostly mineral-rich rock, periodically supplemented by whatever wanders into the tunnels they create as they eat.
 
+The minerals from the rocks they eat are used to build up armor that gets thicker the larger the Rockworm grows. Sometimes parts of this armor are scraped off by cave walls or broken off in combat - these pieces can be used for several crafting projects, if the PCs have the right recipes.
+
+* Bastion Belt (DSH p. 324) - Can use Rockworm armor in place of the giant's tooth.
+* Catapult Dust (DSH p. 316) - Can crush up Rockworm armor into dust to use in place of the witherite crystal (enough for a Bastion Belt could instead make 4 catapult dust)
+
 ~~~ds-statblock
 type: statblock
 name: Rockworm Larva
